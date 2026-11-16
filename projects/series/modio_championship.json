@@ -1,0 +1,58 @@
+{
+  "format": "ghostline-race-series",
+  "schema_version": 1,
+  "id": "modio_championship",
+  "title": "Night City Street Series",
+  "contact_name": "Race Organiser",
+  "intro_message": "Nine races. Nine wins. Finish the championship and €$100,000 is yours. Your first start is marked. Win each race to unlock the next. You can retry a loss; win all nine to open every race for replays.",
+  "completion_message": "Nine wins. Championship complete. Your €$100,000 bonus has been transferred. Every race stays open for replays. See you at the start line.",
+  "reward_eddies": 100000,
+  "quest_core_slot": 1,
+  "races": [
+    {
+      "title": "Opening Run",
+      "project": "race_b691a569b7d2",
+      "invitation": "Race 1 of 9. Your first start is marked. Bring your own car and take first place to unlock the next race."
+    },
+    {
+      "title": "Dockside Dash",
+      "project": "modio_race_02",
+      "invitation": "Race 2 of 9: Dockside Dash. Bring your own car. Win to unlock the next event."
+    },
+    {
+      "title": "MaiMai Mayhem",
+      "project": "modio_race_03",
+      "invitation": "Race 3 of 9: MaiMai Mayhem. Your race car is provided at the start. Win to unlock the next event."
+    },
+    {
+      "title": "Heavy Metal",
+      "project": "modio_race_04",
+      "invitation": "Race 4 of 9: Heavy Metal. Bring your own car. Win to unlock the next event."
+    },
+    {
+      "title": "Dust Trail",
+      "project": "modio_race_05",
+      "invitation": "Race 5 of 9: Dust Trail. Your race car is provided at the start. Win to unlock the next event."
+    },
+    {
+      "title": "Coastline Run",
+      "project": "modio_race_06",
+      "invitation": "Race 6 of 9: Coastline Run. Bring your own car. Win to unlock the next event."
+    },
+    {
+      "title": "Factory Shift",
+      "project": "modio_race_07",
+      "invitation": "Race 7 of 9: Factory Shift. Your race car is provided at the start. Win to unlock the next event."
+    },
+    {
+      "title": "Executive Express",
+      "project": "modio_race_08",
+      "invitation": "Race 8 of 9: Executive Express. Bring your own car. Win to unlock the next event."
+    },
+    {
+      "title": "Night City Grand Prix",
+      "project": "modio_race_09",
+      "invitation": "Race 9 of 9: Night City Grand Prix. Bring your own car. Win to claim the €$100,000 championship bonus."
+    }
+  ]
+}

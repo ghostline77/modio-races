@@ -1,0 +1,4378 @@
+{
+  "route": {
+    "format": "ghostline-race-route",
+    "schema_version": 1,
+    "id": "modio_race_04",
+    "title": "Heavy Metal",
+    "description": "Big engines and hard braking through the eastern industrial streets. A mixed muscle-car field rewards clean exits. Bring your own car.",
+    "prefix": "races",
+    "looped": false,
+    "width_default": 5,
+    "speed_mps": 100,
+    "world": {
+      "race_actor_positions": {
+        "announcer": {
+          "x": 603.0380000784982,
+          "y": -1918.714961725561,
+          "z": 29.556973953247
+        },
+        "spectator_1": {
+          "x": 602.1369328297803,
+          "y": -1918.0840276455747,
+          "z": 29.557528991698998
+        },
+        "spectator_2": {
+          "x": 601.890847205796,
+          "y": -1920.353265814139,
+          "z": 29.577434082031
+        },
+        "spectator_3": {
+          "x": 600.9897799570782,
+          "y": -1919.7223317341527,
+          "z": 29.577781219482
+        },
+        "spectator_4": {
+          "x": 600.7436943330939,
+          "y": -1921.9915699027167,
+          "z": 29.592750091553
+        },
+        "spectator_5": {
+          "x": 599.8426270843761,
+          "y": -1921.3606358227305,
+          "z": 29.592925567627
+        },
+        "spectator_6": {
+          "x": 599.5965414603919,
+          "y": -1923.6298739912947,
+          "z": 29.60204460144
+        },
+        "johnny": {
+          "x": 598.6954742116741,
+          "y": -1922.9989399113085,
+          "z": 29.602181930542
+        }
+      },
+      "race_actor_yaws": {
+        "announcer": 235,
+        "spectator_1": 235,
+        "spectator_2": 235,
+        "spectator_3": 235,
+        "spectator_4": 235,
+        "spectator_5": 235,
+        "spectator_6": 235,
+        "johnny": 235
+      }
+    },
+    "marks": [
+      {
+        "id": "spline_point_0032",
+        "role": "spline_point",
+        "order": 32,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 588.2376708984375,
+          "y": -1947.9722900390625,
+          "z": 28.791845321655273
+        },
+        "yaw": 149.23867495353636,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0033",
+        "role": "spline_point",
+        "order": 33,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 565.2772827148438,
+          "y": -1989.05419921875,
+          "z": 26.65995979309082
+        },
+        "yaw": 150.98627083818963,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0034",
+        "role": "spline_point",
+        "order": 34,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 552.7094116210938,
+          "y": -2012.03076171875,
+          "z": 25.534780502319336
+        },
+        "yaw": 150.5443704043073,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0035",
+        "role": "spline_point",
+        "order": 35,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 544.6346435546875,
+          "y": -2025.60595703125,
+          "z": 24.99819564819336
+        },
+        "yaw": 145.5916716695716,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0036",
+        "role": "spline_point",
+        "order": 36,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 528.5011596679688,
+          "y": -2047.375,
+          "z": 24.712739944458008
+        },
+        "yaw": 143.29665456072632,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0037",
+        "role": "spline_point",
+        "order": 37,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 526.4935302734375,
+          "y": -2049.941162109375,
+          "z": 24.21492576599121
+        },
+        "yaw": 141.28687035662546,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0038",
+        "role": "spline_point",
+        "order": 38,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 517.1754760742188,
+          "y": -2061.505126953125,
+          "z": 20.766826629638672
+        },
+        "yaw": 141.31485361357977,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0039",
+        "role": "spline_point",
+        "order": 39,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 515.257568359375,
+          "y": -2063.973388671875,
+          "z": 20.441551208496094
+        },
+        "yaw": 142.92222323093677,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0040",
+        "role": "spline_point",
+        "order": 40,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 502.0269165233597,
+          "y": -2081.551269505406,
+          "z": 20.46787452697754
+        },
+        "yaw": 142.91160673986167,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0041",
+        "role": "spline_point",
+        "order": 41,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 462.5042724609375,
+          "y": -2133.755126953125,
+          "z": 14.678951263427734
+        },
+        "yaw": 142.70634601035442,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0042",
+        "role": "spline_point",
+        "order": 42,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 459.0027770996094,
+          "y": -2138.04150390625,
+          "z": 14.650330543518066
+        },
+        "yaw": 138.9863586865887,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0043",
+        "role": "spline_point",
+        "order": 43,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 458.2638244628906,
+          "y": -2138.630859375,
+          "z": 14.647846221923828
+        },
+        "yaw": 119.19309309630466,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0044",
+        "role": "spline_point",
+        "order": 44,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 457.1828308105469,
+          "y": -2139.058349609375,
+          "z": 14.641463279724121
+        },
+        "yaw": 104.33370019427792,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0045",
+        "role": "spline_point",
+        "order": 45,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 456.57171630859375,
+          "y": -2139.063232421875,
+          "z": 14.636356353759766
+        },
+        "yaw": 76.87689964203082,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0046",
+        "role": "spline_point",
+        "order": 46,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 455.1533203125,
+          "y": -2138.585205078125,
+          "z": 14.621404647827148
+        },
+        "yaw": 61.227410936967544,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0047",
+        "role": "spline_point",
+        "order": 47,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 452.3694152832031,
+          "y": -2136.755615234375,
+          "z": 14.586418151855469
+        },
+        "yaw": 55.30556564961154,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0048",
+        "role": "spline_point",
+        "order": 48,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 450.6019287109375,
+          "y": -2135.434326171875,
+          "z": 14.563194274902344
+        },
+        "yaw": 51.18004425019183,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0049",
+        "role": "spline_point",
+        "order": 49,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 440.77947998046875,
+          "y": -2127.430419921875,
+          "z": 13.80715560913086
+        },
+        "yaw": 50.262603240131966,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0050",
+        "role": "spline_point",
+        "order": 50,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 435.4378356933594,
+          "y": -2122.828125,
+          "z": 13.038196563720703
+        },
+        "yaw": 48.9411618372211,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0051",
+        "role": "spline_point",
+        "order": 51,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 423.27886962890625,
+          "y": -2112.185791015625,
+          "z": 10.57284164428711
+        },
+        "yaw": 48.90841186254113,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0052",
+        "role": "spline_point",
+        "order": 52,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 413.6369934082031,
+          "y": -2103.815673828125,
+          "z": 7.883631706237793
+        },
+        "yaw": 48.58355479884,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0053",
+        "role": "spline_point",
+        "order": 53,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 389.84423828125,
+          "y": -2082.692138671875,
+          "z": -0.0028057098388671875
+        },
+        "yaw": 49.03433874993624,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0054",
+        "role": "spline_point",
+        "order": 54,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 385.2832946777344,
+          "y": -2079.197998046875,
+          "z": -0.0028057098388671875
+        },
+        "yaw": 54.72417313184036,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0055",
+        "role": "spline_point",
+        "order": 55,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 381.5558166503906,
+          "y": -2076.828857421875,
+          "z": -0.0028057098388671875
+        },
+        "yaw": 59.7117508895883,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0056",
+        "role": "spline_point",
+        "order": 56,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 380.37396240234375,
+          "y": -2076.33056640625,
+          "z": -0.0028057098388671875
+        },
+        "yaw": 72.87593682199912,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0057",
+        "role": "spline_point",
+        "order": 57,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 378.8838195800781,
+          "y": -2076.005615234375,
+          "z": -0.0028057098388671875
+        },
+        "yaw": 81.84179739037461,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0058",
+        "role": "spline_point",
+        "order": 58,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 378.1004333496094,
+          "y": -2076.004638671875,
+          "z": -0.0028057098388671875
+        },
+        "yaw": 94.73078542558619,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0059",
+        "role": "spline_point",
+        "order": 59,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 377.32025146484375,
+          "y": -2076.135009765625,
+          "z": -0.0028057098388671875
+        },
+        "yaw": 107.8065255667999,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0060",
+        "role": "spline_point",
+        "order": 60,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 375.93487548828125,
+          "y": -2076.7001953125,
+          "z": -0.0028057098388671875
+        },
+        "yaw": 123.07493499983912,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0061",
+        "role": "spline_point",
+        "order": 61,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 373.45684814453125,
+          "y": -2078.651123046875,
+          "z": -0.0028057098388671875
+        },
+        "yaw": 135.04262649449777,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0062",
+        "role": "spline_point",
+        "order": 62,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 369.86846923828125,
+          "y": -2082.775634765625,
+          "z": -0.0028057098388671875
+        },
+        "yaw": 141.33220610825015,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0063",
+        "role": "spline_point",
+        "order": 63,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 364.632843103704,
+          "y": -2089.677978402082,
+          "z": -0.0028057098388671875
+        },
+        "yaw": 141.78130332416993,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0064",
+        "role": "spline_point",
+        "order": 64,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 360.5636291503906,
+          "y": -2094.592041015625,
+          "z": 0.4555072784423828
+        },
+        "yaw": 138.51323879315532,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0065",
+        "role": "spline_point",
+        "order": 65,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 356.40350341796875,
+          "y": -2098.98388671875,
+          "z": 1.2988252639770508
+        },
+        "yaw": 133.4082919748704,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0066",
+        "role": "spline_point",
+        "order": 66,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 346.6821594238281,
+          "y": -2107.722900390625,
+          "z": 3.690380096435547
+        },
+        "yaw": 130.94899081489552,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0067",
+        "role": "spline_point",
+        "order": 67,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 344.34648356608255,
+          "y": -2109.446063314026,
+          "z": 4.306474083927787
+        },
+        "yaw": 126.4183380600781,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0068",
+        "role": "spline_point",
+        "order": 68,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 339.4829406738281,
+          "y": -2113.0341796875,
+          "z": 5.589357376098633
+        },
+        "yaw": 122.56158731584861,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0069",
+        "role": "spline_point",
+        "order": 69,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 330.3682556152344,
+          "y": -2118.372314453125,
+          "z": 8.011543273925781
+        },
+        "yaw": 117.96204596103354,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0070",
+        "role": "spline_point",
+        "order": 70,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 324.8343200683594,
+          "y": -2120.810546875,
+          "z": 9.459085464477539
+        },
+        "yaw": 110.27685559806207,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0071",
+        "role": "spline_point",
+        "order": 71,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 318.3354187011719,
+          "y": -2122.81787109375,
+          "z": 11.112494468688965
+        },
+        "yaw": 104.8575521017624,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0072",
+        "role": "spline_point",
+        "order": 72,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 314.7295227050781,
+          "y": -2123.4912109375,
+          "z": 11.999452590942383
+        },
+        "yaw": 99.16987141712684,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0073",
+        "role": "spline_point",
+        "order": 73,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 312.8121032714844,
+          "y": -2123.70947265625,
+          "z": 12.459930419921875
+        },
+        "yaw": 94.9195116257045,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0074",
+        "role": "spline_point",
+        "order": 74,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 310.82659912109375,
+          "y": -2123.8271484375,
+          "z": 12.927300453186035
+        },
+        "yaw": 91.65719400438297,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0075",
+        "role": "spline_point",
+        "order": 75,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 308.7784729003906,
+          "y": -2123.826171875,
+          "z": 13.398080825805664
+        },
+        "yaw": 88.08793225340321,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0076",
+        "role": "spline_point",
+        "order": 76,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 306.67279052734375,
+          "y": -2123.6884765625,
+          "z": 13.868484497070312
+        },
+        "yaw": 84.2281097497222,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0077",
+        "role": "spline_point",
+        "order": 77,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 304.522705078125,
+          "y": -2123.39599609375,
+          "z": 14.332648277282715
+        },
+        "yaw": 80.09223649697873,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0078",
+        "role": "spline_point",
+        "order": 78,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 302.33978271484375,
+          "y": -2122.931640625,
+          "z": 14.784912109375
+        },
+        "yaw": 75.69476280710074,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0079",
+        "role": "spline_point",
+        "order": 79,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 296.43524169921875,
+          "y": -2121.333740234375,
+          "z": 15.847223281860352
+        },
+        "yaw": 73.92511126848683,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0080",
+        "role": "spline_point",
+        "order": 80,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 292.7227783203125,
+          "y": -2120.160400390625,
+          "z": 16.446752548217773
+        },
+        "yaw": 70.65284462497584,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0081",
+        "role": "spline_point",
+        "order": 81,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 288.454345703125,
+          "y": -2118.531494140625,
+          "z": 17.0360107421875
+        },
+        "yaw": 64.30165452944675,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0082",
+        "role": "spline_point",
+        "order": 82,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 280.7291259765625,
+          "y": -2114.388671875,
+          "z": 17.719377517700195
+        },
+        "yaw": 57.74715626464359,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0083",
+        "role": "spline_point",
+        "order": 83,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 274.2436218261719,
+          "y": -2109.564208984375,
+          "z": 17.924400329589844
+        },
+        "yaw": 48.38695142650204,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0084",
+        "role": "spline_point",
+        "order": 84,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 253.64480590820312,
+          "y": -2090.3310546875,
+          "z": 17.915786743164062
+        },
+        "yaw": 46.61157343335685,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0085",
+        "role": "spline_point",
+        "order": 85,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 240.24856567382812,
+          "y": -2077.4296875,
+          "z": 17.915786743164062
+        },
+        "yaw": 48.09878898751202,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0086",
+        "role": "spline_point",
+        "order": 86,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 225.98492438403437,
+          "y": -2065.512207087754,
+          "z": 17.915786743164062
+        },
+        "yaw": 50.717245675638594,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0087",
+        "role": "spline_point",
+        "order": 87,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 210.1958465576172,
+          "y": -2052.846923828125,
+          "z": 16.593921661376953
+        },
+        "yaw": 51.36425434009675,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0088",
+        "role": "spline_point",
+        "order": 88,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 185.22520446777344,
+          "y": -2032.9324951171875,
+          "z": 13.358621597290039
+        },
+        "yaw": 51.50037720168592,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0089",
+        "role": "spline_point",
+        "order": 89,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 112.99096289974615,
+          "y": -1975.527712926981,
+          "z": 2.7821622591207795
+        },
+        "yaw": 51.801881850781456,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0090",
+        "role": "spline_point",
+        "order": 90,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 91.06418683169186,
+          "y": -1958.8400884503712,
+          "z": 2.7821664810180664
+        },
+        "yaw": 53.00371784388477,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0091",
+        "role": "spline_point",
+        "order": 91,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 83.8407974243164,
+          "y": -1953.564453125,
+          "z": 2.502657413482666
+        },
+        "yaw": 53.77330820609848,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_0",
+        "role": "spline_point",
+        "order": 92,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 79.64867670202705,
+          "y": -1950.4770285536042,
+          "z": 2.418040668265815
+        },
+        "yaw": 53.62899509673702,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_1",
+        "role": "spline_point",
+        "order": 93,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 74.29605164911965,
+          "y": -1946.5349125687408,
+          "z": 2.309999478532173
+        },
+        "yaw": 54.00153295078377,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_2",
+        "role": "spline_point",
+        "order": 94,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 53.34856414794922,
+          "y": -1931.3165283203125,
+          "z": 2.309999465942383
+        },
+        "yaw": 53.958557723282624,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_3",
+        "role": "spline_point",
+        "order": 95,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -22.014120144517307,
+          "y": -1876.4790052631513,
+          "z": 2.734045971868314
+        },
+        "yaw": 58.62738833362019,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_4",
+        "role": "spline_point",
+        "order": 96,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -30.44487762451172,
+          "y": -1871.33837890625,
+          "z": 2.73404598236084
+        },
+        "yaw": 69.13733481917191,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_5",
+        "role": "spline_point",
+        "order": 97,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -33.430362701416016,
+          "y": -1870.2005615234375,
+          "z": 2.73404598236084
+        },
+        "yaw": 82.17797323866807,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_6",
+        "role": "spline_point",
+        "order": 98,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -34.97651672363281,
+          "y": -1869.9881591796875,
+          "z": 2.73404598236084
+        },
+        "yaw": 96.64547678834211,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_7",
+        "role": "spline_point",
+        "order": 99,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -36.66337585449219,
+          "y": -1870.1846923828125,
+          "z": 2.73404598236084
+        },
+        "yaw": 112.65574687247704,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_8",
+        "role": "spline_point",
+        "order": 100,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -38.22478103637695,
+          "y": -1870.83642578125,
+          "z": 2.73404598236084
+        },
+        "yaw": 124.38915670409966,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_9",
+        "role": "spline_point",
+        "order": 101,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -39.468605041503906,
+          "y": -1871.687744140625,
+          "z": 2.73404598236084
+        },
+        "yaw": 135.16920694384677,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_10",
+        "role": "spline_point",
+        "order": 102,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -42.175106048583984,
+          "y": -1874.4102783203125,
+          "z": 2.73404598236084
+        },
+        "yaw": 143.34489851472034,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_11",
+        "role": "spline_point",
+        "order": 103,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -46.190765380859375,
+          "y": -1879.8065185546875,
+          "z": 2.73404598236084
+        },
+        "yaw": 146.48402021542213,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_12",
+        "role": "spline_point",
+        "order": 104,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -52.12773895263672,
+          "y": -1888.7708740234375,
+          "z": 2.73404598236084
+        },
+        "yaw": 147.5383933820304,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_13",
+        "role": "spline_point",
+        "order": 105,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -119.20420837402344,
+          "y": -1994.2156982421875,
+          "z": 5.941214561462402
+        },
+        "yaw": 144.53741722274466,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_14",
+        "role": "spline_point",
+        "order": 106,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -126.21434020996094,
+          "y": -2004.05712890625,
+          "z": 5.941215515136719
+        },
+        "yaw": 137.7706427770139,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_15",
+        "role": "spline_point",
+        "order": 107,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -127.58605194091797,
+          "y": -2005.568359375,
+          "z": 5.941215515136719
+        },
+        "yaw": 130.04333173363403,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_16",
+        "role": "spline_point",
+        "order": 108,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -129.53289794921875,
+          "y": -2007.2044677734375,
+          "z": 5.941215991973877
+        },
+        "yaw": 113.4961214768955,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_17",
+        "role": "spline_point",
+        "order": 109,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -132.46270751953125,
+          "y": -2008.4781494140625,
+          "z": 5.941216468811035
+        },
+        "yaw": 95.33512460670055,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_18",
+        "role": "spline_point",
+        "order": 110,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -135.32278442382812,
+          "y": -2008.7452392578125,
+          "z": 5.941216945648193
+        },
+        "yaw": 84.6454112020105,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_19",
+        "role": "spline_point",
+        "order": 111,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -139.7261505126953,
+          "y": -2008.33251953125,
+          "z": 5.94121789932251
+        },
+        "yaw": 80.50654238590579,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_20",
+        "role": "spline_point",
+        "order": 112,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -145.33090209960938,
+          "y": -2007.395263671875,
+          "z": 5.941219329833984
+        },
+        "yaw": 81.25254553835991,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_21",
+        "role": "spline_point",
+        "order": 113,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -185.79986572265625,
+          "y": -2001.1683349609375,
+          "z": 6.1313323974609375
+        },
+        "yaw": 81.87890266611524,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_22",
+        "role": "spline_point",
+        "order": 114,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -192.29702758789062,
+          "y": -2000.2412109375,
+          "z": 6.13133430480957
+        },
+        "yaw": 77.42862344766614,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_23",
+        "role": "spline_point",
+        "order": 115,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -196.40194702148438,
+          "y": -1999.3258056640625,
+          "z": 6.13133430480957
+        },
+        "yaw": 67.17449095918668,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_24",
+        "role": "spline_point",
+        "order": 116,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -197.5536651611328,
+          "y": -1998.841064453125,
+          "z": 6.13133430480957
+        },
+        "yaw": 50.63779314736655,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_25",
+        "role": "spline_point",
+        "order": 117,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -198.74459838867188,
+          "y": -1997.8641357421875,
+          "z": 6.13133430480957
+        },
+        "yaw": 22.05706367635206,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_26",
+        "role": "spline_point",
+        "order": 118,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -199.31072998046875,
+          "y": -1996.4669189453125,
+          "z": 6.13133430480957
+        },
+        "yaw": 3.966805982202768,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_27",
+        "role": "spline_point",
+        "order": 119,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -199.39320373535156,
+          "y": -1995.277587890625,
+          "z": 6.13133430480957
+        },
+        "yaw": -6.039771273172056,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_28",
+        "role": "spline_point",
+        "order": 120,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -198.9384002685547,
+          "y": -1990.9791259765625,
+          "z": 6.13133430480957
+        },
+        "yaw": -12.895917690547623,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_29",
+        "role": "spline_point",
+        "order": 121,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -195.57852172851562,
+          "y": -1976.3043212890625,
+          "z": 6.10013484954834
+        },
+        "yaw": -19.552709423822467,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_30",
+        "role": "spline_point",
+        "order": 122,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -186.96681213378906,
+          "y": -1952.0565185546875,
+          "z": 5.969715595245361
+        },
+        "yaw": -24.375478444974252,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_31",
+        "role": "spline_point",
+        "order": 123,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -182.2369842529297,
+          "y": -1941.6177978515625,
+          "z": 5.937361240386963
+        },
+        "yaw": -28.397675866846498,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_32",
+        "role": "spline_point",
+        "order": 124,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -177.79348754882812,
+          "y": -1933.39892578125,
+          "z": 5.938374042510986
+        },
+        "yaw": -31.716748886977502,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_33",
+        "role": "spline_point",
+        "order": 125,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -170.390869140625,
+          "y": -1921.4208984375,
+          "z": 5.900017738342285
+        },
+        "yaw": -34.32355930813187,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_34",
+        "role": "spline_point",
+        "order": 126,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -161.86941528320312,
+          "y": -1908.93994140625,
+          "z": 5.573760509490967
+        },
+        "yaw": -25.294431500316808,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_35",
+        "role": "spline_point",
+        "order": 127,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -137.84715270996094,
+          "y": -1858.107666015625,
+          "z": 3.0887179374694824
+        },
+        "yaw": -34.117469593579166,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_36",
+        "role": "spline_point",
+        "order": 128,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -87.63671875,
+          "y": -1783.995849609375,
+          "z": -0.06401443481445312
+        },
+        "yaw": -33.22898651111606,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_37",
+        "role": "spline_point",
+        "order": 129,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -50.57941436767578,
+          "y": -1727.4288330078125,
+          "z": -0.06401443481445312
+        },
+        "yaw": -34.7926328859803,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_38",
+        "role": "spline_point",
+        "order": 130,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 54.97430040975918,
+          "y": -1575.515264242848,
+          "z": -3.0640143271108955
+        },
+        "yaw": -33.919190818408275,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_39",
+        "role": "spline_point",
+        "order": 131,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 86.33802032470703,
+          "y": -1528.8748779296875,
+          "z": -3.064014434814453
+        },
+        "yaw": -35.325113678410524,
+        "options": {
+          "generated_road_sample": true,
+          "route_anchor": false
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_0_40",
+        "role": "spline_point",
+        "order": 132,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 134.80201252163397,
+          "y": -1460.4903036349276,
+          "z": 0.25278377025901655
+        },
+        "yaw": 0,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0179",
+        "role": "spline_point",
+        "order": 133,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 201.4645538330078,
+          "y": -1366.4268798828125,
+          "z": 4.8150529861450195
+        },
+        "yaw": 324.6336564109449,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0180",
+        "role": "spline_point",
+        "order": 134,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 222.73385620117188,
+          "y": -1336.6041259765625,
+          "z": 5.68531608581543
+        },
+        "yaw": 324.4654495548885,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0181",
+        "role": "spline_point",
+        "order": 135,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 254.59475708007812,
+          "y": -1292.0360107421875,
+          "z": 6.641599178314209
+        },
+        "yaw": 324.77924693187725,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0182",
+        "role": "spline_point",
+        "order": 136,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 273.5865173339844,
+          "y": -1264.5712890625,
+          "z": 9.133529663085938
+        },
+        "yaw": 325.61881709087265,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0183",
+        "role": "spline_point",
+        "order": 137,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 304.2289733886719,
+          "y": -1219.4959716796875,
+          "z": 14.958158493041992
+        },
+        "yaw": 325.82068780990267,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0184",
+        "role": "spline_point",
+        "order": 138,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 375.9567205431674,
+          "y": -1113.8210530706517,
+          "z": 29.239043088229284
+        },
+        "yaw": 325.6253307505744,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0185",
+        "role": "spline_point",
+        "order": 139,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 380.609619140625,
+          "y": -1107.8389892578125,
+          "z": 29.23903465270996
+        },
+        "yaw": 320.76311517527444,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0186",
+        "role": "spline_point",
+        "order": 140,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 381.58746337890625,
+          "y": -1106.9261474609375,
+          "z": 29.23903465270996
+        },
+        "yaw": 305.7565824043135,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0187",
+        "role": "spline_point",
+        "order": 141,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 383.07061767578125,
+          "y": -1106.06689453125,
+          "z": 29.23903465270996
+        },
+        "yaw": 290.57798671418755,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0188",
+        "role": "spline_point",
+        "order": 142,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 384.3729553222656,
+          "y": -1105.88037109375,
+          "z": 29.23903465270996
+        },
+        "yaw": 269.7990449327658,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0189",
+        "role": "spline_point",
+        "order": 143,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 385.5417175292969,
+          "y": -1106.0755615234375,
+          "z": 29.23903465270996
+        },
+        "yaw": 253.10796378575674,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0190",
+        "role": "spline_point",
+        "order": 144,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 387.3271179199219,
+          "y": -1106.7774658203125,
+          "z": 29.23903465270996
+        },
+        "yaw": 242.30510865596145,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0191",
+        "role": "spline_point",
+        "order": 145,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 392.4908443356368,
+          "y": -1109.7231443082442,
+          "z": 29.23903465270996
+        },
+        "yaw": 238.96984897548793,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_1_0",
+        "role": "spline_point",
+        "order": 146,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 469.3823547363281,
+          "y": -1156.1400146484375,
+          "z": 28.600004196166992
+        },
+        "yaw": -121.18493041767549,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "native_repair_1_1",
+        "role": "spline_point",
+        "order": 147,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 486.5310190714354,
+          "y": -1166.5194512853177,
+          "z": 28.600000381469727
+        },
+        "yaw": 0,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0248",
+        "role": "spline_point",
+        "order": 148,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 492.0390319824219,
+          "y": -1163.63427734375,
+          "z": 28.600000381469727
+        },
+        "yaw": 234.30040873005385,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0249",
+        "role": "spline_point",
+        "order": 149,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 500.69549560546875,
+          "y": -1169.249267578125,
+          "z": 28.600000381469727
+        },
+        "yaw": 238.23549988368123,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0250",
+        "role": "spline_point",
+        "order": 150,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 557.6862783151112,
+          "y": -1204.2810052558864,
+          "z": 28.600000381469727
+        },
+        "yaw": 238.66546816058084,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0251",
+        "role": "spline_point",
+        "order": 151,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 577.2991943359375,
+          "y": -1215.8883056640625,
+          "z": 28.600000381469727
+        },
+        "yaw": 240.04757092505795,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0252",
+        "role": "spline_point",
+        "order": 152,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 581.15771484375,
+          "y": -1217.8062744140625,
+          "z": 28.600000381469727
+        },
+        "yaw": 247.38485211386333,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0253",
+        "role": "spline_point",
+        "order": 153,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 586.8275756835938,
+          "y": -1219.8575439453125,
+          "z": 28.600000381469727
+        },
+        "yaw": 253.15425385180137,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0254",
+        "role": "spline_point",
+        "order": 154,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 589.1207885742188,
+          "y": -1220.2174072265625,
+          "z": 28.600000381469727
+        },
+        "yaw": 263.9821244664658,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0255",
+        "role": "spline_point",
+        "order": 155,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 590.398681640625,
+          "y": -1220.2340087890625,
+          "z": 28.600000381469727
+        },
+        "yaw": 273.148536595339,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0256",
+        "role": "spline_point",
+        "order": 156,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 591.7327270507812,
+          "y": -1220.07373046875,
+          "z": 28.600000381469727
+        },
+        "yaw": 285.4317678714677,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0257",
+        "role": "spline_point",
+        "order": 157,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 594.2012939453125,
+          "y": -1219.184326171875,
+          "z": 28.600000381469727
+        },
+        "yaw": 296.97507058998906,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0258",
+        "role": "spline_point",
+        "order": 158,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 596.1756591796875,
+          "y": -1217.8123779296875,
+          "z": 28.600000381469727
+        },
+        "yaw": 313.75274737596106,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0259",
+        "role": "spline_point",
+        "order": 159,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 599.4846801757812,
+          "y": -1214.1260986328125,
+          "z": 28.600000381469727
+        },
+        "yaw": 321.191541099678,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0260",
+        "role": "spline_point",
+        "order": 160,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 601.4555053710938,
+          "y": -1211.24755859375,
+          "z": 28.600000381469727
+        },
+        "yaw": 328.6169808121794,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0261",
+        "role": "spline_point",
+        "order": 161,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 607.4450073242188,
+          "y": -1201.0762939453125,
+          "z": 28.600000381469727
+        },
+        "yaw": 329.8951242141857,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0262",
+        "role": "spline_point",
+        "order": 162,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 618.5450439453125,
+          "y": -1181.7723388671875,
+          "z": 28.60005760192871
+        },
+        "yaw": 329.99935969867994,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0263",
+        "role": "spline_point",
+        "order": 163,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 622.5164794921875,
+          "y": -1174.972412109375,
+          "z": 28.600048065185547
+        },
+        "yaw": 328.7005086672333,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0264",
+        "role": "spline_point",
+        "order": 164,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 623.3995971679688,
+          "y": -1173.787841796875,
+          "z": 28.600048065185547
+        },
+        "yaw": 317.1935598733872,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0265",
+        "role": "spline_point",
+        "order": 165,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 624.888671875,
+          "y": -1172.4112548828125,
+          "z": 28.600048065185547
+        },
+        "yaw": 305.5336700544336,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0266",
+        "role": "spline_point",
+        "order": 166,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 625.95849609375,
+          "y": -1171.9603271484375,
+          "z": 28.600048065185547
+        },
+        "yaw": 287.7773723260459,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0267",
+        "role": "spline_point",
+        "order": 167,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 626.5413818359375,
+          "y": -1171.88134765625,
+          "z": 28.600048065185547
+        },
+        "yaw": 273.35544005559404,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0268",
+        "role": "spline_point",
+        "order": 168,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 627.0932006835938,
+          "y": -1171.893798828125,
+          "z": 28.600048065185547
+        },
+        "yaw": 258.567156295342,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0269",
+        "role": "spline_point",
+        "order": 169,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 628.9751586914062,
+          "y": -1172.37353515625,
+          "z": 28.600048065185547
+        },
+        "yaw": 249.2746612840133,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0270",
+        "role": "spline_point",
+        "order": 170,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 631.599853515625,
+          "y": -1173.5989990234375,
+          "z": 28.600048065185547
+        },
+        "yaw": 242.999463524315,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0271",
+        "role": "spline_point",
+        "order": 171,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 634.7732543945312,
+          "y": -1175.327880859375,
+          "z": 28.600048065185547
+        },
+        "yaw": 241.87185107406418,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0272",
+        "role": "spline_point",
+        "order": 172,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 761.35546875,
+          "y": -1242.9639892578125,
+          "z": 27.975173950195312
+        },
+        "yaw": 241.9435937898108,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0273",
+        "role": "spline_point",
+        "order": 173,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 769.3155517578125,
+          "y": -1247.0352783203125,
+          "z": 27.975173950195312
+        },
+        "yaw": 244.27530489265882,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0274",
+        "role": "spline_point",
+        "order": 174,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 772.2100830078125,
+          "y": -1248.1937255859375,
+          "z": 27.975173950195312
+        },
+        "yaw": 251.48064088087472,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0275",
+        "role": "spline_point",
+        "order": 175,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 774.2100830078125,
+          "y": -1248.6748046875,
+          "z": 27.975173950195312
+        },
+        "yaw": 260.34213342968394,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0276",
+        "role": "spline_point",
+        "order": 176,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 775.4215087890625,
+          "y": -1248.740234375,
+          "z": 27.975173950195312
+        },
+        "yaw": 273.46027956030235,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0277",
+        "role": "spline_point",
+        "order": 177,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 776.7335815429688,
+          "y": -1248.522216796875,
+          "z": 27.975173950195312
+        },
+        "yaw": 286.99427679801704,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0278",
+        "role": "spline_point",
+        "order": 178,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 777.942626953125,
+          "y": -1247.9697265625,
+          "z": 27.975173950195312
+        },
+        "yaw": 300.5319060531727,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0279",
+        "role": "spline_point",
+        "order": 179,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 778.9107055664062,
+          "y": -1247.2381591796875,
+          "z": 27.975173950195312
+        },
+        "yaw": 313.65034514876317,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0280",
+        "role": "spline_point",
+        "order": 180,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 780.2999267578125,
+          "y": -1245.720947265625,
+          "z": 27.975173950195312
+        },
+        "yaw": 322.51464415277826,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0281",
+        "role": "spline_point",
+        "order": 181,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 782.0518798828125,
+          "y": -1243.142333984375,
+          "z": 27.975173950195312
+        },
+        "yaw": 329.7210421810558,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0282",
+        "role": "spline_point",
+        "order": 182,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 786.3753653187506,
+          "y": -1235.3153092323587,
+          "z": 27.975173950195312
+        },
+        "yaw": 331.7863361506866,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0283",
+        "role": "spline_point",
+        "order": 183,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 799.3448591108581,
+          "y": -1210.9095239554927,
+          "z": 28.009267523431195
+        },
+        "yaw": 332.0128891122565,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0284",
+        "role": "spline_point",
+        "order": 184,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 807.2987670898438,
+          "y": -1195.9427490234375,
+          "z": 28.030176162719727
+        },
+        "yaw": 332.419756017654,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0285",
+        "role": "spline_point",
+        "order": 185,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 827.5753169486574,
+          "y": -1156.8642586492406,
+          "z": 27.975175858720956
+        },
+        "yaw": 332.141099429786,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0286",
+        "role": "spline_point",
+        "order": 186,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 844.9937742201378,
+          "y": -1124.6256107104928,
+          "z": 28.061641692152556
+        },
+        "yaw": 331.811213328338,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0287",
+        "role": "spline_point",
+        "order": 187,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 854.1578979492188,
+          "y": -1107.2646484375,
+          "z": 28.06163787841797
+        },
+        "yaw": 331.93273845602886,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0288",
+        "role": "spline_point",
+        "order": 188,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 897.4312133789062,
+          "y": -1026.2838134765625,
+          "z": 28.139873504638672
+        },
+        "yaw": 331.852730663201,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0289",
+        "role": "spline_point",
+        "order": 189,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 900.58642578125,
+          "y": -1020.484130859375,
+          "z": 28.139867782592773
+        },
+        "yaw": 329.63905197516135,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0290",
+        "role": "spline_point",
+        "order": 190,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 902.9619140625,
+          "y": -1016.8422241210938,
+          "z": 28.139867782592773
+        },
+        "yaw": 321.1078135062115,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0291",
+        "role": "spline_point",
+        "order": 191,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 905.7555541992188,
+          "y": -1014.076171875,
+          "z": 28.139867782592773
+        },
+        "yaw": 307.8105240647557,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0292",
+        "role": "spline_point",
+        "order": 192,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 911.53662109375,
+          "y": -1010.1884765625,
+          "z": 28.139867782592773
+        },
+        "yaw": 301.34359616657434,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0293",
+        "role": "spline_point",
+        "order": 193,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 962.3959339623354,
+          "y": -979.5792242925789,
+          "z": 29.428697558279406
+        },
+        "yaw": 300.9537716557979,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0294",
+        "role": "spline_point",
+        "order": 194,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 989.884215869523,
+          "y": -963.1984865897774,
+          "z": 29.428688049316406
+        },
+        "yaw": 301.87612784685376,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0295",
+        "role": "spline_point",
+        "order": 195,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1014.0794063353943,
+          "y": -947.4389651061693,
+          "z": 29.860244743790574
+        },
+        "yaw": 302.4375872972337,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0296",
+        "role": "spline_point",
+        "order": 196,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1037.9997550848593,
+          "y": -932.6191411048555,
+          "z": 29.860244750976562
+        },
+        "yaw": 301.73396832203804,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0297",
+        "role": "spline_point",
+        "order": 197,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1042.165283203125,
+          "y": -930.0697631835938,
+          "z": 30.11731719970703
+        },
+        "yaw": 302.8547421723075,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0298",
+        "role": "spline_point",
+        "order": 198,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1052.588256649677,
+          "y": -923.1977540290541,
+          "z": 31.369726158649506
+        },
+        "yaw": 292.8083427639437,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0299",
+        "role": "spline_point",
+        "order": 199,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1092.254638671875,
+          "y": -909.0055541992188,
+          "z": 35.235233306884766
+        },
+        "yaw": 290.5647285606731,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0300",
+        "role": "spline_point",
+        "order": 200,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1097.0740966796875,
+          "y": -906.5078735351562,
+          "z": 35.61207580566406
+        },
+        "yaw": 293.95527327659954,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0301",
+        "role": "spline_point",
+        "order": 201,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1100.529052734375,
+          "y": -905.3292846679688,
+          "z": 35.857582092285156
+        },
+        "yaw": 284.17132542095396,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0302",
+        "role": "spline_point",
+        "order": 202,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1105.0125732421875,
+          "y": -904.5033569335938,
+          "z": 36.19457244873047
+        },
+        "yaw": 279.07188400324503,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0303",
+        "role": "spline_point",
+        "order": 203,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1106.1650390625,
+          "y": -904.4293823242188,
+          "z": 36.28647994995117
+        },
+        "yaw": 272.05709856040386,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0304",
+        "role": "spline_point",
+        "order": 204,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1107.38134765625,
+          "y": -904.4182739257812,
+          "z": 36.386383056640625
+        },
+        "yaw": 266.75250227075827,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0305",
+        "role": "spline_point",
+        "order": 205,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1109.9945068359375,
+          "y": -904.6466674804688,
+          "z": 36.612586975097656
+        },
+        "yaw": 260.54104962571375,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0306",
+        "role": "spline_point",
+        "order": 206,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1112.7633056640625,
+          "y": -905.31494140625,
+          "z": 36.87284469604492
+        },
+        "yaw": 251.33459378384362,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0307",
+        "role": "spline_point",
+        "order": 207,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1115.5635986328125,
+          "y": -906.5279541015625,
+          "z": 37.163185119628906
+        },
+        "yaw": 241.29216706613502,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0308",
+        "role": "spline_point",
+        "order": 208,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1118.2135009765625,
+          "y": -908.2998046875,
+          "z": 37.47040557861328
+        },
+        "yaw": 231.35989414548976,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0309",
+        "role": "spline_point",
+        "order": 209,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1120.54345703125,
+          "y": -910.509033203125,
+          "z": 37.775108337402344
+        },
+        "yaw": 218.82353251576208,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0310",
+        "role": "spline_point",
+        "order": 210,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1124.1318359375,
+          "y": -915.654541015625,
+          "z": 38.33845138549805
+        },
+        "yaw": 209.48178830829897,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0311",
+        "role": "spline_point",
+        "order": 211,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1125.291748046875,
+          "y": -918.9078369140625,
+          "z": 38.6507453918457
+        },
+        "yaw": 194.8299847972477,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0312",
+        "role": "spline_point",
+        "order": 212,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1125.70751953125,
+          "y": -921.6056518554688,
+          "z": 38.90507125854492
+        },
+        "yaw": 186.33062604371958,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0313",
+        "role": "spline_point",
+        "order": 213,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1125.84375,
+          "y": -923.8834228515625,
+          "z": 39.1175651550293
+        },
+        "yaw": 181.8929284359809,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0314",
+        "role": "spline_point",
+        "order": 214,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1125.849365234375,
+          "y": -925.8975219726562,
+          "z": 39.30405044555664
+        },
+        "yaw": 178.2882143041311,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0315",
+        "role": "spline_point",
+        "order": 215,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1125.68408203125,
+          "y": -929.2261352539062,
+          "z": 39.60963821411133
+        },
+        "yaw": 175.93633012152907,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0316",
+        "role": "spline_point",
+        "order": 216,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1125.4093017578125,
+          "y": -932.091796875,
+          "z": 39.87029266357422
+        },
+        "yaw": 172.19576447702775,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0317",
+        "role": "spline_point",
+        "order": 217,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1124.1842041015625,
+          "y": -940.1694946289062,
+          "z": 40.593017578125
+        },
+        "yaw": 168.56312963708478,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0318",
+        "role": "spline_point",
+        "order": 218,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1119.99267578125,
+          "y": -958.8663330078125,
+          "z": 42.17273712158203
+        },
+        "yaw": 167.2444815561986,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0319",
+        "role": "spline_point",
+        "order": 219,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1117.7772233780274,
+          "y": -968.4716112890499,
+          "z": 42.847072084381075
+        },
+        "yaw": 173.9060809828709,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0320",
+        "role": "spline_point",
+        "order": 220,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1115.0075683715506,
+          "y": -1005.5600584307422,
+          "z": 44.73546218042103
+        },
+        "yaw": 170.9616985139429,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0321",
+        "role": "spline_point",
+        "order": 221,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1100.631347780399,
+          "y": -1076.2600091550962,
+          "z": 48.40550228741329
+        },
+        "yaw": 162.1194237349158,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0322",
+        "role": "spline_point",
+        "order": 222,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1057.5223388671875,
+          "y": -1183.7442626953125,
+          "z": 54.250999450683594
+        },
+        "yaw": 159.87734344808575,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0323",
+        "role": "spline_point",
+        "order": 223,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1052.6353759765625,
+          "y": -1207.254638671875,
+          "z": 55.37508773803711
+        },
+        "yaw": 167.47446464287532,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0324",
+        "role": "spline_point",
+        "order": 224,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1045.7574462890625,
+          "y": -1236.7005615234375,
+          "z": 56.47272872924805
+        },
+        "yaw": 165.27940562466767,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0325",
+        "role": "spline_point",
+        "order": 225,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1035.1173095703125,
+          "y": -1273.931884765625,
+          "z": 57.33543014526367
+        },
+        "yaw": 162.520521568023,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0326",
+        "role": "spline_point",
+        "order": 226,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1026.84130859375,
+          "y": -1296.7698974609375,
+          "z": 57.53274154663086
+        },
+        "yaw": 159.2801849124503,
+        "options": {
+          "generated_road_sample": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "spline_point_0327",
+        "role": "spline_point",
+        "order": 227,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1023.9780264548428,
+          "y": -1303.3803374968263,
+          "z": 57.52090195488895
+        },
+        "yaw": 156.5803700516367,
+        "options": {
+          "generated_road_sample": false,
+          "route_anchor": true
+        },
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "start_grid_0000",
+        "role": "start_grid",
+        "order": 0,
+        "name": "",
+        "notes": "Single-file grid; 8 m between vehicles.",
+        "position": {
+          "x": 593.6952466345361,
+          "y": -1943.9132346442616,
+          "z": 29.081215667725
+        },
+        "yaw": 145,
+        "options": {},
+        "evidence": {
+          "source": "game-scout",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons",
+          "collision_group": "Static"
+        }
+      },
+      {
+        "id": "start_grid_0001",
+        "role": "start_grid",
+        "order": 1,
+        "name": "",
+        "notes": "Single-file grid; 8 m between vehicles.",
+        "position": {
+          "x": 590.4186384573801,
+          "y": -1941.6189288988576,
+          "z": 29.084822463989
+        },
+        "yaw": 145,
+        "options": {},
+        "evidence": {
+          "source": "game-scout",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons",
+          "collision_group": "Static"
+        }
+      },
+      {
+        "id": "start_grid_0002",
+        "role": "start_grid",
+        "order": 2,
+        "name": "",
+        "notes": "Single-file grid; 8 m between vehicles.",
+        "position": {
+          "x": 599.4310109980466,
+          "y": -1935.7217142013717,
+          "z": 29.350054550171002
+        },
+        "yaw": 145,
+        "options": {},
+        "evidence": {
+          "source": "game-scout",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons",
+          "collision_group": "Static"
+        }
+      },
+      {
+        "id": "start_grid_0003",
+        "role": "start_grid",
+        "order": 3,
+        "name": "",
+        "notes": "Single-file grid; 8 m between vehicles.",
+        "position": {
+          "x": 596.1544028208906,
+          "y": -1933.4274084559677,
+          "z": 29.350569534302
+        },
+        "yaw": 145,
+        "options": {},
+        "evidence": {
+          "source": "game-scout",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons",
+          "collision_group": "Static"
+        }
+      },
+      {
+        "id": "start_grid_0004",
+        "role": "start_grid",
+        "order": 4,
+        "name": "",
+        "notes": "Single-file grid; 8 m between vehicles.",
+        "position": {
+          "x": 605.1667753615571,
+          "y": -1927.5301937584818,
+          "z": 29.432795333862
+        },
+        "yaw": 145,
+        "options": {},
+        "evidence": {
+          "source": "game-scout",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons",
+          "collision_group": "Static"
+        }
+      },
+      {
+        "id": "player_start_0000",
+        "role": "player_start",
+        "order": 0,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 601.8901671844011,
+          "y": -1925.2358880130778,
+          "z": 29.432759094238
+        },
+        "yaw": 145,
+        "options": {},
+        "evidence": {
+          "source": "game-scout",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons",
+          "collision_group": "Static"
+        }
+      },
+      {
+        "id": "activation_0000",
+        "role": "activation",
+        "order": 0,
+        "name": "",
+        "notes": "Meeting point beside the starting approach.",
+        "position": {
+          "x": 605.1684754150446,
+          "y": -1915.3236382611346,
+          "z": 29.497890014648
+        },
+        "yaw": 235,
+        "options": {},
+        "evidence": {
+          "source": "game-scout",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons",
+          "collision_group": "Static"
+        }
+      },
+      {
+        "id": "staging_0000",
+        "role": "staging",
+        "order": 0,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 597.3839809140679,
+          "y": -1928.1844953618206,
+          "z": 29.382759094238
+        },
+        "yaw": 145,
+        "options": {
+          "width_m": 34,
+          "depth_m": 64,
+          "height_m": 10
+        },
+        "evidence": {
+          "source": "game-scout",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons",
+          "collision_group": "Static"
+        }
+      },
+      {
+        "id": "finish_0000",
+        "role": "finish",
+        "order": 0,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": 1023.9780264548428,
+          "y": -1303.3803374968263,
+          "z": 57.52090195488895
+        },
+        "yaw": 156.5803700516367,
+        "options": {},
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      },
+      {
+        "id": "checkpoint_0000",
+        "role": "checkpoint",
+        "order": 0,
+        "name": "",
+        "notes": "",
+        "position": {
+          "x": -103.64378023069999,
+          "y": -1807.6226599772597,
+          "z": 0.9410750841406093
+        },
+        "yaw": 31.981679110538835,
+        "options": {},
+        "evidence": {
+          "source": "road-path",
+          "resource": "base\\worlds\\03_night_city\\sectors\\_generated\\traffic\\all.lane_polygons"
+        }
+      }
+    ]
+  },
+  "config": {
+    "actor_ownership": "population",
+    "schema_version": 1,
+    "id": "modio_race_04",
+    "title": "Heavy Metal",
+    "description": "Big engines and hard braking through the eastern industrial streets. A mixed muscle-car field rewards clean exits. Bring your own car.",
+    "route": "route.json",
+    "entrants": [
+      {
+        "id": "crew_1",
+        "name": "Switch",
+        "grid": 0,
+        "vehicle": "Vehicle.v_sport2_quadra_type66",
+        "vehicle_appearance": "quadra_type66__basic_urban_01",
+        "driver": "Character.sq024_pacifica_race_tyger_claws_female_racer",
+        "passenger": "Character.sq024_pacifica_race_tyger_claws_racer",
+        "driver_staging": {
+          "position": {
+            "x": 595.4156359328917,
+            "y": -1943.897089610864,
+            "z": 29.051215667725
+          },
+          "yaw": 145
+        },
+        "passenger_staging": {
+          "position": {
+            "x": 591.9748573361805,
+            "y": -1943.9293796776592,
+            "z": 29.051215667725
+          },
+          "yaw": 145
+        }
+      },
+      {
+        "id": "crew_2",
+        "name": "Redline",
+        "grid": 1,
+        "vehicle": "Vehicle.v_sport2_quadra_type66_sport",
+        "vehicle_appearance": "quadra_type66__basic_suburban_06",
+        "driver": "Character.sq024_city_race_corpo_racer",
+        "passenger": "Character.sq024_city_race_corpo_racer",
+        "driver_staging": {
+          "position": {
+            "x": 592.1390277557357,
+            "y": -1941.60278386546,
+            "z": 29.054822463988998
+          },
+          "yaw": 145
+        },
+        "passenger_staging": {
+          "position": {
+            "x": 588.6982491590245,
+            "y": -1941.6350739322552,
+            "z": 29.054822463988998
+          },
+          "yaw": 145
+        }
+      },
+      {
+        "id": "crew_3",
+        "name": "Fuse",
+        "grid": 2,
+        "vehicle": "Vehicle.v_sport2_quadra_type66_avenger",
+        "vehicle_appearance": "quadra_type66__basic_urban_05",
+        "driver": "Character.sq024_pacifica_race_6th_street_racer",
+        "passenger": "Character.sq024_pacifica_race_6th_street_racer",
+        "driver_staging": {
+          "position": {
+            "x": 601.1514002964022,
+            "y": -1935.705569167974,
+            "z": 29.320054550171
+          },
+          "yaw": 145
+        },
+        "passenger_staging": {
+          "position": {
+            "x": 597.710621699691,
+            "y": -1935.7378592347693,
+            "z": 29.320054550171
+          },
+          "yaw": 145
+        }
+      },
+      {
+        "id": "crew_4",
+        "name": "Circuit",
+        "grid": 3,
+        "vehicle": "Vehicle.v_sport2_quadra_type66_rowley",
+        "vehicle_appearance": "quadra_type66__basic_jen_rowley",
+        "driver": "Character.sq024_pacifica_race_lizzie_female_racer",
+        "passenger": "Character.sq024_pacifica_race_lizzie_female_racer",
+        "driver_staging": {
+          "position": {
+            "x": 597.8747921192462,
+            "y": -1933.41126342257,
+            "z": 29.320569534302
+          },
+          "yaw": 145
+        },
+        "passenger_staging": {
+          "position": {
+            "x": 594.434013522535,
+            "y": -1933.4435534893653,
+            "z": 29.320569534302
+          },
+          "yaw": 145
+        }
+      },
+      {
+        "id": "crew_5",
+        "name": "Torque",
+        "grid": 4,
+        "vehicle": "Vehicle.v_sport2_villefort_alvarado",
+        "vehicle_appearance": "villefort_alvarado__basic_urban_06",
+        "driver": "Character.sq024_pacifica_race_valentino_racer",
+        "passenger": "Character.sq024_pacifica_race_valentino_racer",
+        "driver_staging": {
+          "position": {
+            "x": 606.8871646599127,
+            "y": -1927.5140487250842,
+            "z": 29.402795333862
+          },
+          "yaw": 145
+        },
+        "passenger_staging": {
+          "position": {
+            "x": 603.4463860632015,
+            "y": -1927.5463387918794,
+            "z": 29.402795333862
+          },
+          "yaw": 145
+        }
+      }
+    ],
+    "checkpoint_spacing_m": 200,
+    "countdown_seconds": 3,
+    "timeout_seconds": 600,
+    "checkpoint_mode": "vanilla"
+  }
+}
