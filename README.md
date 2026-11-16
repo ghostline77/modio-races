@@ -31,16 +31,16 @@ and finish selectors; no custom checkpoint entity files are required.
 
 `projects/series/modio_championship.json` owns race order, invitations and the final reward. Each file in
 `projects/` contains its complete route, starting marks, vehicles, crew and race
-settings. These are source inputs for the sibling Rust race builder. See
+settings. These are source inputs for the installed Race Builder. See
 [editing and building the championship](docs/authoring.md) for setup and packaging:
 
 ```sh
-../race-builder/target/release/ghostline-race-builder.exe validate-series projects/series/modio_championship.json --projects projects
-../race-builder/target/release/ghostline-race-builder.exe build-series projects/series/modio_championship.json --projects projects --out builds/championship --game "path/to/Cyberpunk 2077"
+ghostline-race-builder validate-series projects/series/modio_championship.json --projects projects
+ghostline-race-builder build-series projects/series/modio_championship.json --projects projects --out builds/championship --game "path/to/Cyberpunk 2077"
 ```
 
 To edit these source files directly in the UI, serve the builder with
-`--workspace ../modio-races/projects` when running from its repository.
+`--workspace projects` when running from this repository.
 
 Courses follow the native drivable traffic network, including road elevations.
 Before release, drive every course and check roadside activation, grid and
