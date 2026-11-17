@@ -7,7 +7,7 @@
     "description": "A Badlands road rally with fast open sections and sweeping bends. A supplied Quartz Sidewinder faces a field of nomad cars.",
     "prefix": "races",
     "looped": false,
-    "width_default": 5,
+    "width_default": 7,
     "speed_mps": 100,
     "world": {
       "race_actor_positions": {

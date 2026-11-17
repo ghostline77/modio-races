@@ -7,7 +7,7 @@
     "description": "The championship opener: a technical 5.35 km street run through the eastern city. Bring your own car against five selected crews.",
     "prefix": "races",
     "looped": false,
-    "width_default": 5,
+    "width_default": 7,
     "speed_mps": 100,
     "world": {
       "race_actor_positions": {

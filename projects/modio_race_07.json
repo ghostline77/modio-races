@@ -7,7 +7,7 @@
     "description": "An industrial loop through Northside: a supplied Type-66 640 TS and five muscle cars, with little room to waste momentum.",
     "prefix": "races",
     "looped": false,
-    "width_default": 5,
+    "width_default": 7,
     "speed_mps": 100,
     "world": {
       "race_actor_positions": {

@@ -7,7 +7,7 @@
     "description": "A southern coastal sprint mixing an open approach with Pacifica's street corners. Bring your own car against a Japanese sports-car field.",
     "prefix": "races",
     "looped": false,
-    "width_default": 5,
+    "width_default": 7,
     "speed_mps": 100,
     "world": {
       "race_actor_positions": {

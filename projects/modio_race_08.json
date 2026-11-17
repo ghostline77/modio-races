@@ -7,7 +7,7 @@
     "description": "A fast cross-city run on the main road network. Bring a quick car: Outlaws, Turbo-Rs and Type-66s make up the field.",
     "prefix": "races",
     "looped": false,
-    "width_default": 5,
+    "width_default": 7,
     "speed_mps": 100,
     "world": {
       "race_actor_positions": {

@@ -7,7 +7,7 @@
     "description": "The championship finale: a long run from the northern city streets through the central road network and into the south. Bring your fastest car and win to claim the one-time €$100,000 championship bonus.",
     "prefix": "races",
     "looped": false,
-    "width_default": 5,
+    "width_default": 7,
     "speed_mps": 100,
     "world": {
       "race_actor_positions": {

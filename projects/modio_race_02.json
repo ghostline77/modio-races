@@ -7,7 +7,7 @@
     "description": "A northern street sprint: long dockside approaches give way to the tighter industrial grid. Bring your own car.",
     "prefix": "races",
     "looped": false,
-    "width_default": 5,
+    "width_default": 7,
     "speed_mps": 100,
     "world": {
       "race_actor_positions": {

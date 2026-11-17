@@ -7,7 +7,7 @@
     "description": "One compact car, one compact course. A provided Makigai MaiMai E126 puts you on equal machinery with five opponents through Watson's street grid.",
     "prefix": "races",
     "looped": false,
-    "width_default": 4,
+    "width_default": 7,
     "speed_mps": 100,
     "world": {
       "race_actor_positions": {
